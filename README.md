@@ -1,5 +1,10 @@
 # Introduction to Neural Networks
 
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+</p>
+
 Welcome to the **Introduction to Neural Networks** repository! This repository is designed to guide you through the fundamental and advanced concepts of artificial neural networks. It contains both theoretical materials and practical implementations.
 
 ## Topics Covered
@@ -26,7 +31,7 @@ This repository is not just theoretical; it will serve as a practical workspace 
 
 ### What to Expect
 - **From-Scratch Implementations:** Building basic components (like perceptrons and backprop) using raw Python/NumPy to deeply understand the underlying math.
-- **Framework-Based Models:** Using modern deep learning frameworks (such as PyTorch or TensorFlow) to build, train, and evaluate advanced architectures like CNNs and Transformers.
+- **Framework-Based Models:** We will use **PyTorch** as our primary deep learning framework to build, train, and evaluate advanced architectures like CNNs and Transformers.
 - **Jupyter Notebooks:** Interactive walkthroughs for data exploration, step-by-step model training, and visual evaluation.
 - **Executable Scripts:** Modular Python scripts for running specific, reproducible experiments.
 
