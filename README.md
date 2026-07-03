@@ -27,11 +27,11 @@ This repository explores a wide range of topics, structured from foundational co
 
 This repository features two primary interactive Jupyter Notebooks that cover the core curriculum. You can run them directly in Google Colab:
 
-- **Introduction to Neural Networks** (`intro_neural_nets.ipynb`): A comprehensive guide covering the basics, from perceptrons to backpropagation.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwangi-clinton/introduction-to-neural-networks/blob/main/intro_neural_nets.ipynb)
+- **Introduction to Neural Networks** (`introduction_to_neural_networks.ipynb`): A comprehensive guide covering the basics, from perceptrons to backpropagation.
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwangi-clinton/introduction-to-neural-networks/blob/main/introduction_to_neural_networks.ipynb)
 
-- **Advanced Neural Networks** (`advanced_neural_networks.ipynb`): An exploration of advanced architectures such as CNNs and Transformers.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwangi-clinton/introduction-to-neural-networks/blob/main/advanced_neural_networks.ipynb)
+- **Introduction to Advanced Neural Networks** (`introduction_to_advanced_neural_networks.ipynb`): An exploration of advanced architectures such as CNNs and Transformers.
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwangi-clinton/introduction-to-neural-networks/blob/main/introduction_to_advanced_neural_networks.ipynb)
 
 ---
 
