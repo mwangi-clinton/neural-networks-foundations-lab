@@ -63,14 +63,14 @@ cd introduction-to-neural-networks
 pip install -r requirements.txt
 ```
 
-**3. Running Experiments:**
+<!-- **3. Running Experiments:**
 You will be able to run specific scripts for different network experiments. For example:
 ```bash
 # Example command to run a basic perceptron training script
 python scripts/train_perceptron.py
 
 # Example command to run a CNN on image data
-python scripts/train_cnn.py --dataset cifar10 --epochs 10
+python scripts/train_cnn.py --dataset cifar10 --epochs 10 -->
 ```
 
 ### Directory Structure (Planned)
